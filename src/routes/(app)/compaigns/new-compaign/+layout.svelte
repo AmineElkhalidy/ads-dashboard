@@ -1,5 +1,5 @@
 <script>
-  export let title = "FL - New Compaign";
+  export let title = "New Compaign";
 </script>
 
 <svelte:head>

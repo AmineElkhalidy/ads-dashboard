@@ -1,6 +1,6 @@
 <script>
-  import { addToast } from "./Toaster.svelte";
-  import { switcher, authHandlers } from "../store";
+  import { addToast } from "../Toaster/index.svelte";
+  import { switcher, authHandlers } from "../../store";
 
   // input values
   let name = "";

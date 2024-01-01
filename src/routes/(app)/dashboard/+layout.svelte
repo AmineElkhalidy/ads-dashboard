@@ -1,5 +1,5 @@
 <script>
-  export let title = "FL - Dashboard";
+  export let title = "Ads Dashboard";
 </script>
 
 <svelte:head>

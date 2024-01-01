@@ -1,5 +1,3 @@
-<script></script>
-
 <div class="max-w-4xl mx-auto my-12">
   <form>
     <div class="space-y-12">

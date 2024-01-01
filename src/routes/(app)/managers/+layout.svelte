@@ -1,9 +1,8 @@
 <script>
-  export let title = "Compaigns";
+  export let title = "Managers List";
 </script>
 
 <svelte:head>
   <title>{title}</title>
 </svelte:head>
-
 <slot />
